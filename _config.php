@@ -1,9 +1,9 @@
 <?php 
 
-$websiteTitle = "AniKatsu"; // Website Name
+$websiteTitle = "AnimeState"; // Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
 $websiteLogo = $websiteUrl . "/files/images/logo.png?v=2"; // Logo
-$contactEmail = "xyz@gmail.com"; // Contact Email
+$contactEmail = "fazal02072002@gmail.com"; // Contact Email
 
 $version = "0.3";
 
@@ -11,7 +11,7 @@ $version = "0.3";
 $donate = "#";
 
 // Socials 
-$telegram = "https://t.me/#"; // telegram
+$telegram = "https://t.me/Infamous_Hydra"; // telegram
 $discord = "https://discord.com/#"; // Discord
 $redit = "#"; // Reddit
 $twitter = "#"; // Twitter
