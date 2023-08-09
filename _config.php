@@ -1,7 +1,7 @@
 <?php 
 
 $websiteTitle = "AnimeState"; // Website Name
-$websiteUrl = "//{$_SERVER['animestate.live']}";  // Website URL
+$websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
 $websiteLogo = $websiteUrl . "/files/images/logo.png?v=2"; // Logo
 $contactEmail = "fazal02072002@gmail.com"; // Contact Email
 
@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://wordywelcomepostscript.shashankktiwari.repl.co"; 
+$api = "https://wordywelcomepostscript.shashankktiwari.repl.co"; // https://github.com/shashankktiwariii/anikatsu-api 
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
