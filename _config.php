@@ -1,14 +1,14 @@
 <?php 
 
 $websiteTitle = "AnimeState"; // Website Name
-$websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
+$websiteUrl = "//{$_SERVER['animestate.live']}";  // Website URL
 $websiteLogo = $websiteUrl . "/files/images/logo.png?v=2"; // Logo
 $contactEmail = "fazal02072002@gmail.com"; // Contact Email
 
 $version = "0.3";
 
 //Donate 
-$donate = "#";
+$donate = "https://t.me/Fazal_faiz";
 
 // Socials 
 $telegram = "https://t.me/Infamous_Hydra"; // telegram
@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://wordywelcomepostscript.shashankktiwari.repl.co"; // https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://wordywelcomepostscript.shashankktiwari.repl.co"; 
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
