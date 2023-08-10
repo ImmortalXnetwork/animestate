@@ -13,8 +13,8 @@ $donate = "https://www.buymeacoffee.com/fazal00007";
 // Socials 
 $telegram = "https://t.me/Infamous_Hydra"; // telegram
 $discord = "https://discord.com/#"; // Discord
-$redit = "#"; // Reddit
-$twitter = "#"; // Twitter
+$redit = "https://www.reddit.com/u/Anime_State?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1"; // Reddit
+$twitter = "https://twitter.com/AnimesState?t=FJhZCZzRq4Cgk3JR8UxR_A&s=09"; // Twitter
  
 
 
