@@ -8,7 +8,7 @@ $contactEmail = "fazal02072002@gmail.com"; // Contact Email
 $version = "0.3";
 
 //Donate 
-$donate = "#";
+$donate = "https://www.buymeacoffee.com/fazal00007";
 
 // Socials 
 $telegram = "https://t.me/Infamous_Hydra"; // telegram
