@@ -1,7 +1,7 @@
 <?php 
 
 $websiteTitle = "AnimeState"; // Website Name
-$websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
+$websiteUrl = "//{$_SERVER['www.animestate.live']}";  // Website URL
 $websiteLogo = $websiteUrl . "/files/images/logo.png?v=2"; // Logo
 $contactEmail = "fazal02072002@gmail.com"; // Contact Email
 
