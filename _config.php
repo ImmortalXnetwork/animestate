@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://stateapi-441fd92a0bc5.herokuapp.com"; // https://github.com/shashankktiwariii/anikatsu-api 
+$api = "https://apikatsu-223a478d6cf0.herokuapp.com"; // https://github.com/shashankktiwariii/anikatsu-api 
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
