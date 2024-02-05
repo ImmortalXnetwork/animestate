@@ -1,9 +1,9 @@
 <?php 
 
-$websiteTitle = "AnimeState"; // Website Name
+$websiteTitle = "Anime State"; // Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
 $websiteLogo = $websiteUrl . "/files/images/logo.png?v=2"; // Logo
-$contactEmail = "fazal02072002@gmail.com"; // Contact Email
+$contactEmail = "fazal0207@outlook.com"; // Contact Email
 
 $version = "0.3";
 
