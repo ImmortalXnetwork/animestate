@@ -29,7 +29,7 @@
                                     <a href="/anime/<?=$popular['animeId']?>" class="film-poster"
                                         title="<?=$popular['animeTitle']?>">
                                         <img data-src="<?=$popular['imgUrl']?>"
-                                            src="https://anikatsu.me/files/images/no_poster.jpg"
+                                            src="https://ryuk.to/files/images/no_poster.jpg"
                                             class="film-poster-img lazyload" alt="<?=$popular['animeTitle']?>">
                                     </a>
                                     <div class="clearfix"></div>
