@@ -144,7 +144,18 @@ if ('serviceWorker' in navigator) {
                             <div class="clearfix"></div>
                         </div>
                     </div>
-                    
+                    <div class="mba-block" style="overflow:hidden; display: block; text-align: center; margin: 1rem 0;">
+     <script type="text/javascript">
+	atOptions = {
+		'key' : '48dae85774c3548065808dcd7a42e3f9',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//sillinessrobnotoriety.com/48dae85774c3548065808dcd7a42e3f9/invoke.js"></script>
+</div>                                  
                     <div class="mwb-2col">
                         <div class="mwb-left">
                             <h1 class="mw-heading"><?=$websiteTitle?> - The best site to watch anime online for Free
